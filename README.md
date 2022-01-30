@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///home/edgar/Videos/TIP%20APP%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/qZnYCySa2s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
